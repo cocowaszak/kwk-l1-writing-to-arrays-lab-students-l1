@@ -7,7 +7,7 @@ rainbow_colors = []
 def change_rainbow_colors
   my_array = yellow
   puts my_array
-  
+end
 end
 
 def add_colors
