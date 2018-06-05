@@ -5,11 +5,14 @@ rainbow_colors = []
 
 
 def change_rainbow_colors
-  
-  my_array[0] = yellow
-  puts my_array[0]
-my_array[0] = "red"
-puts my_array
+  rainbow_colors = []
+  "yellow",
+  "default",
+  "light_cyan"
+  rainbow_colors[0] = yellow
+  puts rainbow_colors[0]
+rainbow_colors[0] = "red"
+puts rainbow_colors
 end
 
 def add_colors
