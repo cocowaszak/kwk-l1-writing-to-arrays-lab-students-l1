@@ -13,6 +13,9 @@ def change_rainbow_colors
   puts rainbow_colors[0]
 rainbow_colors[0] = "red"
 puts rainbow_colors
+rainbow_colors[1] = "light red"
+puts rainbow_colors
+rainbow_colors[2] = "light yellow"
 end
 
 def add_colors
