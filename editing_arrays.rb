@@ -11,6 +11,6 @@ def change_rainbow_colors
 end
 change_rainbow_colors
 def add_colors
- rainbow_colors = 
+ rainbow_colors = [  "yellow", "default", "light_cyan"]
 end
  
